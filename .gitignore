@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+
+# Confidential assessment data
+moe-cv-takehome/ref_images/
+moe-cv-takehome/train/
+moe-cv-takehome/test/
+moe-cv-takehome/*.zip
+
+# Generated predictions
+predictions.csv
